@@ -7,7 +7,7 @@ Programmer focused on building reliable systems and solving real problems. Inter
 but adaptable to different domains and technologies. I learn fast and work comfortably across tools and environments.
 
 ### Skills
-- C#, Python, JavaScript  
+- Python, React  
 - AI & Machine Learning concepts  
 - System design  
 - Linux  
